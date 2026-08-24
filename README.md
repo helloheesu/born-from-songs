@@ -30,6 +30,7 @@ npm run dev
 
 ## 문서 인덱스
 
+- [원안 검토 안내](docs/project/CREATIVE_REVIEW.md) — 플레이 현황과 창작 방향 확인 질문
 - [프로젝트 개요](docs/project/PROJECT_OVERVIEW.md)
 - [게임 인덱스](docs/project/GAME_INDEX.md)
 - [결정 기록](docs/project/DECISION_LOG.md)
