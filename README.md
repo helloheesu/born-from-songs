@@ -10,9 +10,9 @@ GitHub 저장소명은 `born-from-songs`이다. 서로 독립적인 다섯 게�
 |---|---|---|---|
 | Man in Word (`man-in-word`) | [`games/man-in-word/web/`](games/man-in-word/web/) | [`games/man-in-word/site/`](games/man-in-word/site/) | [`games/man-in-word/README.md`](games/man-in-word/README.md) |
 | Sister Wakeup (`sister-wakeup`) | [`games/sister-wakeup/web/`](games/sister-wakeup/web/) | [`games/sister-wakeup/site/`](games/sister-wakeup/site/) | [`games/sister-wakeup/README.md`](games/sister-wakeup/README.md) |
-| Forever Young (`forever-young`) | [`games/forever-young/web/`](games/forever-young/web/) | — | [`games/forever-young/README.md`](games/forever-young/README.md) |
-| 이별선고 (`breakup-notice`) | [`games/breakup-notice/web/`](games/breakup-notice/web/) | — | [`games/breakup-notice/README.md`](games/breakup-notice/README.md) |
-| 야간비행 (`night-flight`) | [`games/night-flight/web/`](games/night-flight/web/) | — | [`games/night-flight/README.md`](games/night-flight/README.md) |
+| Forever Young (`forever-young`) | [`games/forever-young/web/`](games/forever-young/web/) | [`games/forever-young/site/`](games/forever-young/site/) | [`games/forever-young/README.md`](games/forever-young/README.md) |
+| 이별선고 (`breakup-notice`) | [`games/breakup-notice/web/`](games/breakup-notice/web/) | [`games/breakup-notice/site/`](games/breakup-notice/site/) | [`games/breakup-notice/README.md`](games/breakup-notice/README.md) |
+| 야간비행 (`night-flight`) | [`games/night-flight/web/`](games/night-flight/web/) | [`games/night-flight/site/`](games/night-flight/site/) | [`games/night-flight/README.md`](games/night-flight/README.md) |
 
 현재 범위 밖의 후보는 이 인덱스와 활성 작업 대상에 포함하지 않는다.
 

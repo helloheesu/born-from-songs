@@ -7,6 +7,7 @@
 - `title → running → final-line → ending` 한 사이클이 동작합니다.
 - 짧게 누르면 점프하고 길게 누르면 사랑 공격을 보냅니다.
 - 마우스·터치·키보드와 reduced-motion 대체 스타일을 지원합니다.
+- `web/`은 Vite 정적 게임이고, `site/`는 공개 배포용 전체 화면 래퍼입니다.
 
 ## 실행
 
@@ -16,7 +17,9 @@ npm install
 npm run dev
 ```
 
-정적 빌드는 `npm run build`로 만듭니다.
+정적 빌드는 `npm run build`로 만듭니다. 사이트 래퍼는
+`cd ../site && npm install && npm run sync-game && npm run build`로 별도
+갱신·검증합니다.
 
 ## 문서
 

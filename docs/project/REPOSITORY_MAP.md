@@ -23,9 +23,9 @@
 │   │   ├── docs/
 │   │   ├── web/
 │   │   └── site/
-│   ├── forever-young/{README.md,docs/,web/}
-│   ├── breakup-notice/{README.md,docs/,web/}
-│   └── night-flight/{README.md,docs/,web/}
+│   ├── forever-young/{README.md,docs/,web/,site/}
+│   ├── breakup-notice/{README.md,docs/,web/,site/}
+│   └── night-flight/{README.md,docs/,web/,site/}
 ├── derived/                  # 이전 공개 문서 링크용 안내 파일만 추적
 └── private/                  # 로컬 전용, 실제 내용은 Git 비추적
 ```
