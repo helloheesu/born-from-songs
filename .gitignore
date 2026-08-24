@@ -15,7 +15,7 @@
 /derived/GAME_THREAD_INDEX.md
 
 # Generated files and dependencies.
-**/node_modules/
+**/node_modules
 **/dist/
 **/.next/
 **/.vinext/
@@ -29,8 +29,22 @@
 /outputs/
 /tmp/
 
-# Inactive-game legacy note kept only as a local backlog source.
-/derived/implementation-reports/02_리코타치즈샐러드_보류판단.md
+# Legacy per-game reports with private or inactive names stay local. Keep only
+# the public compatibility index in this directory.
+/derived/implementation-reports/*
+!/derived/implementation-reports/README.md
+
+# Local compatibility aliases for paths used before the monorepo migration.
+# Fresh clones use docs/project/REPOSITORY_MAP.md instead.
+/prototype
+/site-release
+/sister-wakeup
+/sister-wakeup-site
+/forever-young
+/breakup-notice
+/night-flight
+/copy-editor-apps-script
+/spreadsheet-build
 
 # Local deployment and environment state.
 **/.openai/hosting.json

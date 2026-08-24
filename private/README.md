@@ -9,7 +9,8 @@ refer to stable `SRC-*` identifiers from `docs/project/SOURCE_REGISTER.md` and
 include a shareable summary that can be understood without the original.
 
 `source-map.local.yml` maps those identifiers to real local files. It is ignored
-by Git and must use paths relative to this directory, never `/Users/...` paths.
+by Git and must use paths relative to this directory, never machine-specific
+absolute paths.
 
 Git ignore rules are not a backup. Keep the source archive in a local backup
 such as Time Machine or an encrypted external disk.
