@@ -31,6 +31,7 @@ npm run dev
 ## 문서 인덱스
 
 - [원안 검토 안내](docs/project/CREATIVE_REVIEW.md) — 플레이 현황과 창작 방향 확인 질문
+- [창작자 피드백 인덱스](docs/project/CREATOR_FEEDBACK_INDEX.md) — 공개 프로토타입 확인 뒤의 게임별 피드백과 작업 상태
 - [프로젝트 개요](docs/project/PROJECT_OVERVIEW.md)
 - [게임 인덱스](docs/project/GAME_INDEX.md)
 - [결정 기록](docs/project/DECISION_LOG.md)

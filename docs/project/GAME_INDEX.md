@@ -2,13 +2,13 @@
 
 이 문서는 현재 활성 범위의 게임만 가리킨다. 핵심 상호작용은 저장소에 있는 구현과 기존 공개 요약에서 복원한 **구현 사실**이며, 새로운 기획 결정이 아니다.
 
-| slug | 게임 | 구현된 핵심 상호작용 요약 | 실행 코드 | 사이트 래퍼 | 상세 문서 |
-|---|---|---|---|---|---|
-| `man-in-word` | Man in Word | 단어 안에서 이동한다 | [`web/`](../../games/man-in-word/web/) | [`site/`](../../games/man-in-word/site/) | [`README.md`](../../games/man-in-word/README.md) |
-| `sister-wakeup` | Sister Wakeup | 환경을 조절한다 | [`web/`](../../games/sister-wakeup/web/) | [`site/`](../../games/sister-wakeup/site/) | [`README.md`](../../games/sister-wakeup/README.md) |
-| `forever-young` | Forever Young | 정확한 순간에 스윙한다 | [`web/`](../../games/forever-young/web/) | [`site/`](../../games/forever-young/site/) | [`README.md`](../../games/forever-young/README.md) |
-| `breakup-notice` | 이별선고 | 누르는 길이를 달리해 뛰거나 사랑을 보낸다 | [`web/`](../../games/breakup-notice/web/) | [`site/`](../../games/breakup-notice/site/) | [`README.md`](../../games/breakup-notice/README.md) |
-| `night-flight` | 야간비행 | 유영해 방문하고 글자를 조합한다 | [`web/`](../../games/night-flight/web/) | [`site/`](../../games/night-flight/site/) | [`README.md`](../../games/night-flight/README.md) |
+| slug | 게임 | 현재 작업 구분 | 구현된 핵심 상호작용 요약 | 실행 코드 | 사이트 래퍼 | 상세 문서 |
+|---|---|---|---|---|---|---|
+| `man-in-word` | Man in Word | 장기 개발·이번 해커톤 제외 | 단어 안에서 이동한다 | [`web/`](../../games/man-in-word/web/) | [`site/`](../../games/man-in-word/site/) | [`README.md`](../../games/man-in-word/README.md) |
+| `sister-wakeup` | Sister Wakeup | 해커톤 개선 후보 | 환경을 조절한다 | [`web/`](../../games/sister-wakeup/web/) | [`site/`](../../games/sister-wakeup/site/) | [`README.md`](../../games/sister-wakeup/README.md) |
+| `forever-young` | Forever Young | 해커톤 개선 후보 | 정확한 순간에 스윙한다 | [`web/`](../../games/forever-young/web/) | [`site/`](../../games/forever-young/site/) | [`README.md`](../../games/forever-young/README.md) |
+| `breakup-notice` | 이별선고 | 해커톤 개선 후보 | 누르는 길이를 달리해 뛰거나 사랑을 보낸다 | [`web/`](../../games/breakup-notice/web/) | [`site/`](../../games/breakup-notice/site/) | [`README.md`](../../games/breakup-notice/README.md) |
+| `night-flight` | 야간비행 | 해커톤 개선 후보 | 유영해 방문하고 글자를 조합한다 | [`web/`](../../games/night-flight/web/) | [`site/`](../../games/night-flight/site/) | [`README.md`](../../games/night-flight/README.md) |
 
 ## 범위 규칙
 
