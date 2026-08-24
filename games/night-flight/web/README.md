@@ -7,4 +7,4 @@ npm install
 npm run dev
 ```
 
-`npm run build`는 상대 경로 기반 정적 결과물을 `dist/`에 만듭니다. 고정 기억과 제한된 조합 답을 사용하며 자유 텍스트 생성은 없습니다. 기획 경계는 [게임 루트 문서](../README.md)에서 확인합니다.
+`npm run build`는 상대 경로 기반 정적 결과물을 `dist/`에 만들고, 번들에 포함된 제3자 소프트웨어 고지를 `dist/THIRD_PARTY_LICENSES.md`에 생성합니다. 고정 기억과 제한된 조합 답을 사용하며 자유 텍스트 생성은 없습니다. 기획 경계는 [게임 루트 문서](../README.md)에서 확인합니다.

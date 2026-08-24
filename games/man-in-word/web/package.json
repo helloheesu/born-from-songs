@@ -1,6 +1,7 @@
 {
-  "name": "prototype",
+  "name": "man-in-word",
   "private": true,
+  "license": "UNLICENSED",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

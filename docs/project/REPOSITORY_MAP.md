@@ -6,6 +6,9 @@
 .
 ├── README.md
 ├── AGENTS.md
+├── CREDITS.md
+├── RIGHTS.md
+├── THIRD_PARTY_NOTICES.md
 ├── docs/
 │   └── project/              # 프로젝트 공통 공개 문서
 ├── games/

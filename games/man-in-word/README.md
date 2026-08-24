@@ -28,6 +28,10 @@ npm run dev
 - [데스크톱 타이틀](./docs/assets/qa/title-desktop.png)
 - [모바일 엔딩](./docs/assets/qa/ending-mobile.png)
 
+## 검증 기록
+
+- 2026-08-24 공개 저장소 정리 뒤 `web/`과 `site/` 프로덕션 빌드가 통과했고, 두 빌드 모두 `THIRD_PARTY_LICENSES.md`를 생성했다.
+
 ## 현재 제한
 
 - 기억 장면과 단서 조합은 한 세트뿐입니다.
