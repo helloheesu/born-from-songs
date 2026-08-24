@@ -1,0 +1,9 @@
+version: 1
+sources:
+  SRC-000:
+    type: example
+    files:
+      - sources/example/original.ext
+    sharing: local-only
+    consent: review-needed
+    note: Replace this example only in source-map.local.yml.

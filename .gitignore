@@ -1,0 +1,43 @@
+# Local-only source archive. Keep the safe instructions and example schema.
+/private/*
+!/private/README.md
+!/private/source-map.example.yml
+
+# Legacy local aliases for private source material.
+/*.m4a
+/*.wav
+/*.csv
+/*.pdf
+/*.txt
+/derived/.transcription-work
+/derived/2026-08-21_*.md
+/derived/2026-08-24_전체자료_검토_후_실행_결정안.md
+/derived/GAME_THREAD_INDEX.md
+
+# Generated files and dependencies.
+**/node_modules/
+**/dist/
+**/.next/
+**/.vinext/
+**/.wrangler/
+**/.playwright-cli/
+**/output/
+**/.vite/
+**/*.tsbuildinfo
+**/*.log
+**/.DS_Store
+/outputs/
+/tmp/
+
+# Inactive-game legacy note kept only as a local backlog source.
+/derived/implementation-reports/02_리코타치즈샐러드_보류판단.md
+
+# Local deployment and environment state.
+**/.openai/hosting.json
+**/.env
+**/.env.*
+**/*.local
+**/*.pem
+**/*.key
+**/*.p12
+**/*.mobileprovision
