@@ -20,7 +20,7 @@ try {
     mkdirSync(hostingDirectory, { recursive: true });
     writeFileSync(
       hostingConfigPath,
-      `${JSON.stringify({ project_id: 'local-build-only', d1: null, r2: null }, null, 2)}\n`,
+      `${JSON.stringify({ project_id: 'local-build-only', d1: 'DB', r2: null }, null, 2)}\n`,
     );
     createdFallback = true;
   }

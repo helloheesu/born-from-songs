@@ -8,6 +8,7 @@
   },
   "scripts": {
     "dev": "vinext dev",
+    "db:generate": "drizzle-kit generate",
     "sync-game": "node scripts/sync-game-build.mjs",
     "build": "node scripts/build-with-hosting-fallback.mjs",
     "prepare-deploy": "npm run sync-game && npm run build",
@@ -15,6 +16,7 @@
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next --ignore-pattern public/game/assets"
   },
   "dependencies": {
+    "drizzle-orm": "0.45.2",
     "next": "16.3.2",
     "react": "19.2.8",
     "react-dom": "19.2.8"
@@ -29,6 +31,7 @@
     "@types/react-dom": "19.2.3",
     "@vitejs/plugin-react": "6.0.2",
     "@vitejs/plugin-rsc": "0.5.34",
+    "drizzle-kit": "0.31.10",
     "eslint": "9.39.4",
     "eslint-config-next": "16.3.2",
     "react-server-dom-webpack": "19.2.8",

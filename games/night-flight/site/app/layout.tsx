@@ -3,11 +3,11 @@ import './globals.css';
 
 const title = '야간비행';
 const description =
-  '유한한 생애 동안 지나가는 행성의 중력을 읽고 궤도를 맞추며 서로에게 색을 남기는 짧은 물리 게임';
+  '무채색 우주비행사가 지나가는 궤도와 공명하며 색과 익명의 흔적을 이어받는 90초 물리 게임';
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    'https://born-from-songs-night-flight.pandapillow.chatgpt.site',
+    'https://born-from-songs-night-flight-solitude.pandapillow.chatgpt.site',
   ),
   title,
   description,
