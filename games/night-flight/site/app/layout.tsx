@@ -3,7 +3,7 @@ import './globals.css';
 
 const title = '야간비행';
 const description =
-  '별과 행성 사이를 유영하며 기억과 글자 조각으로 자신의 답을 완성하는 짧은 탐색 게임';
+  '유한한 생애 동안 지나가는 행성의 중력을 읽고 궤도를 맞추며 서로에게 색을 남기는 짧은 물리 게임';
 
 export const metadata: Metadata = {
   metadataBase: new URL(
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     description,
     type: 'website',
     locale: 'ko_KR',
-    images: [{ url: '/og.png', width: 1440, height: 900, alt: title }],
+    images: [{ url: '/og.png', width: 1280, height: 720, alt: title }],
   },
   twitter: {
     card: 'summary_large_image',
