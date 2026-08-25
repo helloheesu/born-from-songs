@@ -32,6 +32,12 @@ npm run dev
 `cd ../site && npm install && npm run sync-game && npm run build`로 별도
 갱신·검증합니다.
 
+## 공개 비교판
+
+- [고독한 우주 버전 3](https://born-from-songs-night-flight-solitude.pandapillow.chatgpt.site)
+- 기존 기준선 공개판은 비교를 위해 별도로 보존하며 이 링크의 하위 버전으로
+  덮어쓰지 않는다.
+
 ## 문서
 
 - [창작자 피드백](./docs/CREATOR_FEEDBACK.md)
@@ -51,6 +57,10 @@ npm run dev
 - 2026-08-25: 로컬 D1에서 정상 저장·재조회, 욕설·링크·유선전화·잘못된 JSON
   거절, 같은 익명 token의 시간당 네 번째 저장까지 허용하고 다섯 번째를 HTTP
   429로 거절하는 것을 확인했다.
+- 2026-08-25: 별도 비교 사이트 버전 3을 공개 배포했다. 공개 주소에서 시작과
+  공명층 플레이, 메시지 GET, 브라우저 오류·경고 0건을 확인했고 `DB` binding의
+  `orbit_messages` table이 생성된 것을 확인했다. 공개 DB에는 검증용 메시지를
+  넣지 않았다.
 - 2026-08-24: 새 분위기에서 데스크톱으로 여섯 목적지 방문, 기억 수집,
   처음과 다른 답 조합과 결말까지 5분 45초에 완주했다. 390px 모바일 유영
   화면과 전체 화면 사이트 래퍼도 확인했다.
